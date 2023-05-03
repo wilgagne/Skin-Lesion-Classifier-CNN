@@ -17,7 +17,7 @@ Taken from https://cloud.google.com/tpu/docs/inception-v3-advanced
 
 ## Dataset
 ### Skin Cancer MNIST: HAM10000
-<img src="https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/96a18d01da90480d49f45cee9ef98ecf9fe94491/images/ISIC_0036049%20copy.jpg" width="250" height="250"/> <img src="https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/12b4825f7a8f1226751c5f6122b191693679dee6/images/ISIC_0036053%20copy.jpg" width="250" height="250"/> <img src="https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/12b4825f7a8f1226751c5f6122b191693679dee6/images/ISIC_0036062%20copy.jpg" width="250" height="250"/>
+<img src="https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/96a18d01da90480d49f45cee9ef98ecf9fe94491/images/ISIC_0036049%20.jpg" width="250" height="250"/> <img src="https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/12b4825f7a8f1226751c5f6122b191693679dee6/images/ISIC_0036053%20.jpg" width="250" height="250"/> <img src="https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/12b4825f7a8f1226751c5f6122b191693679dee6/images/ISIC_0036062%20.jpg" width="250" height="250"/>
 
 Link to dataset: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
 
