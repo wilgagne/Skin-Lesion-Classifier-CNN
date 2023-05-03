@@ -12,6 +12,7 @@ This project underscores the importance of considering dataset characteristics w
 ## CNN General Architecture 
 
 ![CNN](https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/22241ba2a86b767bd506511038cd855453218d90/images/Screen%20Shot%202023-05-02%20at%207.57.44%20PM.png)
+
 *Taken from https://cloud.google.com/tpu/docs/inception-v3-advanced
 
 ## Dataset
@@ -22,6 +23,7 @@ This project underscores the importance of considering dataset characteristics w
 ## Performance
 ### Accuracy Table of Esteva & al's CNN vs the Class Imbalance CNN
 ![Table](https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/8c779566cdb2da990671c9fca6558888a372b08f/images/Table.png)
+
 *Note that the results presented for Esteva & al’s CNN are the results of their method on our dataset, not the original results from the paper.
 
 ### Confusion matrix for Class Imbalance CNN
