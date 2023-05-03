@@ -29,7 +29,9 @@ Link to dataset: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham100
 Note that the results presented for Esteva & al’s CNN are the results of their method on our dataset, not the original results from the paper.
 
 ### Confusion matrix for Class Imbalance CNN
-![CM](https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/8c779566cdb2da990671c9fca6558888a372b08f/images/CM.png) 
+<p align="center">
+  <img src="https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/8c779566cdb2da990671c9fca6558888a372b08f/images/CM.png">
+</p>
 
 ## Report
 The comprehensive report (Report.pdf) delves deeper into the intricacies of the Convolutional Neural Network (CNN) implementation. Within this document, there is a section in which I contributed, comparing CNNs to Vision Transformers (ViTs). The findings revealed that CNNs outperformed ViTs across all prediction tasks, achieving superior results with less data due to their enhanced image-specific inductive bias. This disparity in inductive bias likely played a role in the diminished performance of ViTs. 
