@@ -11,7 +11,7 @@ This project underscores the importance of considering dataset characteristics w
 
 ## CNN General Architecture 
 
-![CNN](https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/22241ba2a86b767bd506511038cd855453218d90/images/Screen%20Shot%202023-05-02%20at%207.57.44%20PM.png)
+![CNN](https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/2ccfd821d3a848ff4a0557415ebb1442cd65054d/images/Architecture.png)
 
 Taken from https://cloud.google.com/tpu/docs/inception-v3-advanced
 
