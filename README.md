@@ -23,7 +23,7 @@ Link to dataset: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham100
 ## Performance
 ### Accuracy Table of Esteva & al's CNN vs the Class Imbalance CNN
 <p align="center">
-  <img src="ttps://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/8c779566cdb2da990671c9fca6558888a372b08f/images/Table.png">
+  <img src="https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/8c779566cdb2da990671c9fca6558888a372b08f/images/Table.png">
 </p>
 
 Note that the results presented for Esteva & al’s CNN are the results of their method on our dataset, not the original results from the paper.
