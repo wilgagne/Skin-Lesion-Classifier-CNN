@@ -8,3 +8,5 @@ I began by implementing the original Inception V3 model, following Esteva et al.
 As a result, my second model significantly outperformed the original Esteva et al. model when applied to my dataset. This improvement can be attributed to several factors, including the new model's hyperparameters being tailored to a smaller dataset with severe class imbalances, the use of a loss function specifically designed to handle class imbalances, and the incorporation of an extra dropout layer and Adam's optimizer.
 
 This project underscores the importance of considering dataset characteristics when adapting a CNN and demonstrates the potential for achieving better results by tailoring a renowned model's training procedure to suit specific dataset requirements.
+
+## CNN General Architecture 
