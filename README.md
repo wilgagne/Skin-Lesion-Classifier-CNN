@@ -33,6 +33,8 @@ Link to dataset: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham100
 </p>
 
 ## Report
-The comprehensive report (Report.pdf) delves deeper into the intricacies of the Convolutional Neural Network (CNN) implementation. Within this document, there is a section in which I contributed, comparing CNNs to Vision Transformers (ViTs). The findings revealed that CNNs outperformed ViTs across all prediction tasks, achieving superior results with less data due to their enhanced image-specific inductive bias. This disparity in inductive bias likely played a role in the diminished performance of ViTs. 
+The comprehensive report (Report.pdf) delves deeper into the intricacies of the Convolutional Neural Network (CNN) implementation. Within this document, there is a section in which I contributed, comparing CNNs to Vision Transformers (ViTs). 
+
+The findings revealed that CNNs outperformed ViTs across all prediction tasks, achieving superior results with less data due to their enhanced image-specific inductive bias. This disparity in inductive bias likely played a role in the diminished performance of ViTs. 
 
 Additionally, the Vision Transformer model's rapid convergence and subpar performance can be ascribed to the use of frozen pre-trained weights and a lack of adequate training data. This limited the ViT's capacity to effectively recognize skin lesion images and differentiate between various classes.
