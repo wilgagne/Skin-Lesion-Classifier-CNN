@@ -10,3 +10,4 @@ As a result, my second model significantly outperformed the original Esteva et a
 This project underscores the importance of considering dataset characteristics when adapting a CNN and demonstrates the potential for achieving better results by tailoring a renowned model's training procedure to suit specific dataset requirements.
 
 ## CNN General Architecture 
+![Skin_lesion_1](images/ISIC_0036049 copy.jpg)
