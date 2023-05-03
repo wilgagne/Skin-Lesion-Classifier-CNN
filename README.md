@@ -11,4 +11,4 @@ This project underscores the importance of considering dataset characteristics w
 
 ## CNN General Architecture 
 
-![Skin_lesion_1](images/ISIC_0036049 copy.jpg)
+![Skin_lesion_1](./images/ISIC_0036049 copy.jpg)
