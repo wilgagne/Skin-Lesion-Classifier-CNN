@@ -12,11 +12,16 @@ This project underscores the importance of considering dataset characteristics w
 ## CNN General Architecture 
 
 ![CNN](https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/22241ba2a86b767bd506511038cd855453218d90/images/Screen%20Shot%202023-05-02%20at%207.57.44%20PM.png)
-* taken from https://cloud.google.com/tpu/docs/inception-v3-advanced
+Taken from https://cloud.google.com/tpu/docs/inception-v3-advanced
 
 ## Dataset
 <img src="https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/96a18d01da90480d49f45cee9ef98ecf9fe94491/images/ISIC_0036049%20copy.jpg" width="250" height="250"/> <img src="https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/12b4825f7a8f1226751c5f6122b191693679dee6/images/ISIC_0036053%20copy.jpg" width="250" height="250"/> <img src="https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/12b4825f7a8f1226751c5f6122b191693679dee6/images/ISIC_0036062%20copy.jpg" width="250" height="250"/>
-* Link to dataset: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
+Link to dataset: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
 
 ## Performance
+### Accuracy Table of Esteva & al's CNN vs the Class Imbalance CNN
+<img src="https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/8c779566cdb2da990671c9fca6558888a372b08f/images/Table.png" width="400" height="400"/>
+Note that the results presented for Esteva & al’s CNN are the results of their method on our dataset, not the original results from the paper.
+
 ### Confusion matrix for Class Imbalance CNN
+<img src="https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/8c779566cdb2da990671c9fca6558888a372b08f/images/CM.png" width="400" height="400"/> 
