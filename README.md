@@ -11,4 +11,4 @@ This project underscores the importance of considering dataset characteristics w
 
 ## CNN General Architecture 
 
-![Skin_lesion_1](https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/eb2f50a52519dd231b576a4e67f1a3d17dfafeaf/images/ISIC_0036049%20copy.jpg)
+![Skin_lesion_1](https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/22241ba2a86b767bd506511038cd855453218d90/images/Screen%20Shot%202023-05-02%20at%207.57.44%20PM.png)
