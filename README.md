@@ -15,6 +15,4 @@ This project underscores the importance of considering dataset characteristics w
 * taken from https://cloud.google.com/tpu/docs/inception-v3-advanced
 
 ## Dataset
-<img src="https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/96a18d01da90480d49f45cee9ef98ecf9fe94491/images/ISIC_0036049%20copy.jpg" width="200" height="200"/>
-<img src="https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/96a18d01da90480d49f45cee9ef98ecf9fe94491/images/ISIC_0036049%20copy.jpg" width="200" height="200"/>
-<img src="https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/96a18d01da90480d49f45cee9ef98ecf9fe94491/images/ISIC_0036049%20copy.jpg" width="200" height="200"/>
+<img src="https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/96a18d01da90480d49f45cee9ef98ecf9fe94491/images/ISIC_0036049%20copy.jpg" width="200" height="200"/> <img src="https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/96a18d01da90480d49f45cee9ef98ecf9fe94491/images/ISIC_0036049%20copy.jpg" width="200" height="200"/> <img src="https://github.com/wilgagne/Skin-Lesion-Classifier-CNN/blob/96a18d01da90480d49f45cee9ef98ecf9fe94491/images/ISIC_0036049%20copy.jpg" width="200" height="200"/>
